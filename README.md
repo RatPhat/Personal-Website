@@ -1,4 +1,4 @@
-# Personal-Website
-My personal website
+# Scrapped Personal-Website
+My scrapped personal website
 
-This is part of a school project but also gonna be used as my personal website with contact info and my skills for job aplications.
+This is was a part of a school project that I was gonna use as a personal website but instead i decided to make a new one that is gonna look better.
